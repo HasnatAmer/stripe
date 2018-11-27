@@ -3,7 +3,7 @@ var router = express.Router();
 // var stripe  = require('stripe')('pk_test_vXAWdJvKCqroSfeXXol2afN7');
 // var stripe  = require('stripe')('sk_test_YDMx3aap1jxy7skZey5LTeCnt');
 // sk_test_YDMx3aap1jxy7skZey5LTeCn
-var cron = require("node-cron");
+// var cron = require("node-cron");
 var nodemailer  = require("nodemailer");
 
 
