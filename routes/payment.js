@@ -4,7 +4,7 @@ var router = express.Router();
 // var stripe  = require('stripe')('sk_test_YDMx3aap1jxy7skZey5LTeCnt');
 // sk_test_YDMx3aap1jxy7skZey5LTeCn
 // var cron = require("node-cron");
-var nodemailer  = require("nodemailer");
+// var nodemailer  = require("nodemailer");
 
 
 router.get('/checkout', function(req, res, next) {
