@@ -1,0 +1,9 @@
+For stripe : npm install express stripe
+
+For cron :  npm install express node-cron  
+also install nodemailer
+
+
+https://scotch.io/tutorials/nodejs-cron-jobs-by-examples#toc-install-node-modules
+
+also watch tutorial of traversary media on nodemailer
